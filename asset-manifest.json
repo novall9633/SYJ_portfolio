@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SYJ_portfolio/static/css/main.e826c30f.css",
-    "main.js": "/SYJ_portfolio/static/js/main.880b5549.js",
+    "main.js": "/SYJ_portfolio/static/js/main.c336a095.js",
     "index.html": "/SYJ_portfolio/index.html",
     "main.e826c30f.css.map": "/SYJ_portfolio/static/css/main.e826c30f.css.map",
-    "main.880b5549.js.map": "/SYJ_portfolio/static/js/main.880b5549.js.map"
+    "main.c336a095.js.map": "/SYJ_portfolio/static/js/main.c336a095.js.map"
   },
   "entrypoints": [
     "static/css/main.e826c30f.css",
-    "static/js/main.880b5549.js"
+    "static/js/main.c336a095.js"
   ]
 }
